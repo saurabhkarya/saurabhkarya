@@ -8,7 +8,7 @@
 
 📫 How to reach me: ska.arya173@gmail.com
 
-GUIDE:
+<strong>GUIDE:</strong>
 Repositories that I have created/modified will begin with "ska", others will have their original name.
 
 <!---
