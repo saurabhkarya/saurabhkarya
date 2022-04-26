@@ -8,10 +8,16 @@
 
 📫 How to reach me: ska.arya173@gmail.com
 
+<hr>
+
 <strong>GUIDE:</strong>
+
 Repositories that I have created/modified will begin with "ska", others will have their original name.
 
+<hr>
+
 <strong>PORTFOLIO REPOSITORIES:</strong>
+
 <a href="https://github.com/saurabhkarya/ska-alpaca-trading-bot"><strong>Alpaca Trading Bot »</strong></a>
 
 <!---
