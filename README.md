@@ -1,6 +1,6 @@
 👋 Hi, I’m @saurabhkarya
 
-👀 I’m interested in automation/machine learning/building bots
+👀 I’m interested in automation/machine learning/building bots/building websites
 
 🌱 I’m currently learning JS
 
@@ -10,6 +10,9 @@
 
 <strong>GUIDE:</strong>
 Repositories that I have created/modified will begin with "ska", others will have their original name.
+
+<strong>PORTFOLIO REPOSITORIES:</strong>
+<a href="https://github.com/saurabhkarya/ska-alpaca-trading-bot"><strong>Alpaca Trading Bot »</strong></a>
 
 <!---
 saurabhkarya/saurabhkarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
