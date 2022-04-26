@@ -1,7 +1,11 @@
 👋 Hi, I’m @saurabhkarya
+
 👀 I’m interested in automation/machine learning/building bots
+
 🌱 I’m currently learning JS
+
 💞️ I’m looking to collaborate on Web3
+
 📫 How to reach me: ska.arya173@gmail.com
 
 GUIDE:
