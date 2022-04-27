@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @saurabhkarya
 
-👀 I’m interested in automation/machine learning/building bots/building websites
+👀 I’m interested in APIs/automation/machine learning/building bots/building websites
 
 💞️ I’m looking to collaborate on Web3
 
