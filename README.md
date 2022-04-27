@@ -34,7 +34,7 @@ _Currently Learning: `React` `React Native` `JQuery` `Bootstrap`_
 
 `Python` `PostgreSQL`
 
-_Currently Learning:`Node.js` `PostgreSQL`_
+_Currently Learning:`Node.js`_
 
 ### Computer Science
 
