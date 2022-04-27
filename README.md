@@ -24,9 +24,9 @@ Repositories that I have created/modified will begin with "ska", others will hav
 
 <a href="https://www.saurabh.com.au"><strong>Freelancing Websites »</strong></a>
 <ul>
-  <li><a href="https://github.com/saurabhkarya/"><strong>Personal Portfolio Website</a> - saurabh.com.au</li>
-  <li><a href="https://github.com/saurabhkarya/"><strong>Health Product Website</a> - Complete Health Solutions</li>
-  <li><a href="https://github.com/saurabhkarya/"><strong>Wedding Website</a> - #happilyeverarya</li>
+  <li><a href="https://github.com/saurabhkarya/saurabh.com.au"><strong>Personal Portfolio Website</a> - saurabh.com.au</li>
+  <li><a href="https://github.com/saurabhkarya/completehealthsolutions.org"><strong>Health Product Website</a> - Complete Health Solutions</li>
+  <li><a href="https://github.com/saurabhkarya/happilyeverarya.com"><strong>Wedding Website</a> - #happilyeverarya</li>
   <li><a href="https://github.com/saurabhkarya/"><strong>Therapist/Counsellor Services Website</a> - olivebranchcounselling.com</li>
 </ul>
     
