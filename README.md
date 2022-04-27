@@ -20,6 +20,8 @@ Repositories that I have created/modified will begin with "ska", others will hav
 
 <a href="https://github.com/saurabhkarya/ska-realestate-api"><strong>Real Estate Algorithm »</strong></a>
 
+<a href="https://github.com/saurabhkarya/ska-linkedin-scraper"><strong>Linkedin Python Jobs Scraper »</strong></a>
+
 <a href="https://www.saurabh.com.au"><strong>Freelancing Websites »</strong></a>
 <ul>
   <li><a href="https://github.com/saurabhkarya/"><strong>Personal Portfolio Website</a> - saurabh.com.au</li>
